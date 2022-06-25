@@ -1,2 +1,2 @@
 # dailyverses
-Send bibles verses everyday to group of WhatsApp
+Send bibles verses everyday to a WhatsApp group
